@@ -29,7 +29,7 @@ namespace algorithms
         }
         static void RemoveFirst(ref int[] array, int value)
         {
-            RemoveAt(ref array,value, 2);
+            RemoveAt(ref array,value, array.Length + 1);
         }
         static void RemoveLast(ref int[] array, int value)
         {
