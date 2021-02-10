@@ -1,0 +1,7 @@
+C:\Users\fatime\source\repos\algorithms\algorithms\bin\Debug\algorithms.exe.config
+C:\Users\fatime\source\repos\algorithms\algorithms\bin\Debug\algorithms.exe
+C:\Users\fatime\source\repos\algorithms\algorithms\bin\Debug\algorithms.pdb
+C:\Users\fatime\source\repos\algorithms\algorithms\obj\Debug\algorithms.csprojAssemblyReference.cache
+C:\Users\fatime\source\repos\algorithms\algorithms\obj\Debug\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\fatime\source\repos\algorithms\algorithms\obj\Debug\algorithms.exe
+C:\Users\fatime\source\repos\algorithms\algorithms\obj\Debug\algorithms.pdb
